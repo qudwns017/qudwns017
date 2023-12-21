@@ -19,6 +19,6 @@
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
     <div align= "center">
-        [![Choi Byeongjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=qudwns017&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/qudwns017/github-readme-stats)
+        [![qudwns017's GitHub stats](https://github-readme-stats.vercel.app/api?username=qudwns017&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/qudwns017/github-readme-stats)
     </div> 
 </div>
