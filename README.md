@@ -24,6 +24,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qudwns017)](https://solved.ac/qudwns017)
 
-    </div> 
-</div>
 
