@@ -24,7 +24,7 @@
     <div align= "center">
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=qudwns017&theme=gruvbox&count_private=true&hide_border=true&line_height=21)](https://github.com/qudwns017)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qudwns017)](https://solved.ac/qudwns017)     
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=qudwns017)](https://solved.ac/profile/qudwns017)     
 
 
 
