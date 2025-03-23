@@ -7,13 +7,13 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2>
 
 ### Backend & Database
-[![Backend & Database](https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis)](https://skillicons.dev)
+[![Backend & Database](https://skillicons.dev/icons?i=java,spring,mysql,redis,postgres)](https://skillicons.dev)
 
 ### DevOps & Deployment
-[![DevOps & Deployment](https://skillicons.dev/icons?i=aws,docker,jenkins,nginx,gradle)](https://skillicons.dev)
+[![DevOps & Deployment](https://skillicons.dev/icons?i=aws,docker,jenkins,nginx,gradle,sentry)](https://skillicons.dev)
 
 ### Frontend & ETC
-[![Frontend & ETC](https://skillicons.dev/icons?i=js,react,github,vscode,idea,notion,discord,sentry)](https://skillicons.dev)
+[![Frontend & ETC](https://skillicons.dev/icons?i=js,react,github,vscode,idea,notion,discord)](https://skillicons.dev)
 
 </div>
 
