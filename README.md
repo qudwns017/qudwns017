@@ -1,6 +1,6 @@
 <div align= "center">
     
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:878787,100:383838&height=180&text=Choi%20Byeongjun&animation=twinkling&fontColor=ffffff&fontSize=50)](https://github.com/qudwns017)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&text=Choi%20Byeongjun&animation=fadeIn&fontColor=ffffff&fontSize=50)](https://github.com/qudwns017)
 </div>
 
 <div align= "center">
